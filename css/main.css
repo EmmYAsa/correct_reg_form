@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+label{
+    float: left;
+}
+
+label span{
+    color: tomato;
+}
+
+input{
+    width: 430px;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align-last: right;
+    color: tomato;
+    opacity: 0%;
+}
+
+div{
+    margin: 0 auto;
+    width: 512px;
+    padding: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    width: 430px;
+    padding: 5px;
+}
